@@ -76,7 +76,8 @@ export default function Home() {
       </main>
 
       {/* Footer Premium */}
-      <footer className="border-t border-gray-800 mt-24 py-12 text-center text-gray-400 bg-gray-950/90 backdrop-blur-sm">
+      <footer
+  id="contacto" className="border-t border-gray-800 mt-24 py-12 text-center text-gray-400 scroll-mt-24">
         <div className="max-w-3xl mx-auto flex flex-col gap-4">
           <p className="text-lg md:text-xl font-medium">
             Disponible para proyectos freelance y trabajo remoto.
